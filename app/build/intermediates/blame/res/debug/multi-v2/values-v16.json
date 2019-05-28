@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/webwerks/Documents/Backup/Backup/KP/neosoft/Practice/Dagger/DaggerExample/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/home/webwerks/.gradle/caches/transforms-2/files-2.1/ed7f5cffbe5639adbd49a9f8d36fed21/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "/home/webwerks/.gradle/caches/transforms-2/files-2.1/5a0580cc05b47c1781e609b2189caf4f/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}

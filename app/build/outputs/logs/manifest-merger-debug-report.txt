@@ -1,0 +1,166 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/webwerks/Documents/Backup/Backup/KP/neosoft/Practice/Dagger/DaggerExample/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/webwerks/Documents/Backup/Backup/KP/neosoft/Practice/Dagger/DaggerExample/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/webwerks/Documents/Backup/Backup/KP/neosoft/Practice/Dagger/DaggerExample/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/webwerks/Documents/Backup/Backup/KP/neosoft/Practice/Dagger/DaggerExample/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.databinding:adapters:3.4.0] /home/webwerks/.gradle/caches/transforms-2/files-2.1/b6f49f3b1c3f47451d23232e756bc114/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.databinding:library:3.4.0] /home/webwerks/.gradle/caches/transforms-2/files-2.1/a5a767fdfb466a527b3b7809bb094104/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/webwerks/.gradle/caches/transforms-2/files-2.1/ed7f5cffbe5639adbd49a9f8d36fed21/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/webwerks/.gradle/caches/transforms-2/files-2.1/dfaf1b7cf6f9cb4d102fbdd9fa344764/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/webwerks/.gradle/caches/transforms-2/files-2.1/7a9baccb5214c79d2e8a9a9582bdc6a2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/webwerks/.gradle/caches/transforms-2/files-2.1/852f4e8ce9236f12d9faa21b3bbaf0de/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/webwerks/.gradle/caches/transforms-2/files-2.1/27b016111648a2ef30cfcfbd62ba0a0a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/webwerks/.gradle/caches/transforms-2/files-2.1/25646bf9bbfe8b76e01aec516fcbcfee/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/webwerks/.gradle/caches/transforms-2/files-2.1/b9898ef82ec876d826d400541c867936/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/webwerks/.gradle/caches/transforms-2/files-2.1/0ada0d10ff7b95ac9a05ea4281306c75/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/webwerks/.gradle/caches/transforms-2/files-2.1/acd2edb7841d20aff666a6ee10a34cc5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/webwerks/.gradle/caches/transforms-2/files-2.1/6a4e00cb8914777f7f71bc8548c6e72b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/webwerks/.gradle/caches/transforms-2/files-2.1/978be32f8d3be8050abaa687c2efaee0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/webwerks/.gradle/caches/transforms-2/files-2.1/9ca4b56be0deca4f748dff5ae170e9fa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/webwerks/.gradle/caches/transforms-2/files-2.1/13505a070b4a74bd14cd7a132e6d2f68/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/webwerks/.gradle/caches/transforms-2/files-2.1/93a83385bed8d0ab84b2508290ee8e34/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/webwerks/.gradle/caches/transforms-2/files-2.1/6706987a2b6ebb3b1430cd75c80c4f42/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/webwerks/.gradle/caches/transforms-2/files-2.1/5a0580cc05b47c1781e609b2189caf4f/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/webwerks/.gradle/caches/transforms-2/files-2.1/9f22b44b6e7710717825b05e542b72fc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/webwerks/.gradle/caches/transforms-2/files-2.1/a1d5780acec32b717add6c1194498520/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/webwerks/.gradle/caches/transforms-2/files-2.1/3c761bc38d5b1981037b725bc188e003/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/webwerks/.gradle/caches/transforms-2/files-2.1/9284df74650b33a9c4bc1c2f6a31d54d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/webwerks/.gradle/caches/transforms-2/files-2.1/a6b5be48fbf56529d9f65b27422066e0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/webwerks/.gradle/caches/transforms-2/files-2.1/4dc6c289d3a4869cc92a4571aef1f5fd/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/webwerks/.gradle/caches/transforms-2/files-2.1/7c652bc15f932dd9d05aa7a60f1db009/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/webwerks/.gradle/caches/transforms-2/files-2.1/1bbd711f1790da016f3a531ac9e2e385/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/webwerks/.gradle/caches/transforms-2/files-2.1/010d79cb9ca3588f77bb17cd0836746c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/webwerks/.gradle/caches/transforms-2/files-2.1/ba0755b33ee9906bcc8dbf62b5849c8c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/webwerks/.gradle/caches/transforms-2/files-2.1/db61c118f028f255aa636b6bf809ede0/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/webwerks/Documents/Backup/Backup/KP/neosoft/Practice/Dagger/DaggerExample/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/webwerks/Documents/Backup/Backup/KP/neosoft/Practice/Dagger/DaggerExample/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/webwerks/Documents/Backup/Backup/KP/neosoft/Practice/Dagger/DaggerExample/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /home/webwerks/Documents/Backup/Backup/KP/neosoft/Practice/Dagger/DaggerExample/app/src/main/AndroidManifest.xml:4:5-40
+		INJECTED from /home/webwerks/Documents/Backup/Backup/KP/neosoft/Practice/Dagger/DaggerExample/app/src/main/AndroidManifest.xml
+		INJECTED from /home/webwerks/Documents/Backup/Backup/KP/neosoft/Practice/Dagger/DaggerExample/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/webwerks/Documents/Backup/Backup/KP/neosoft/Practice/Dagger/DaggerExample/app/src/main/AndroidManifest.xml
+		ADDED from /home/webwerks/Documents/Backup/Backup/KP/neosoft/Practice/Dagger/DaggerExample/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /home/webwerks/Documents/Backup/Backup/KP/neosoft/Practice/Dagger/DaggerExample/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/webwerks/Documents/Backup/Backup/KP/neosoft/Practice/Dagger/DaggerExample/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/webwerks/Documents/Backup/Backup/KP/neosoft/Practice/Dagger/DaggerExample/app/src/main/AndroidManifest.xml
+		ADDED from /home/webwerks/Documents/Backup/Backup/KP/neosoft/Practice/Dagger/DaggerExample/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /home/webwerks/Documents/Backup/Backup/KP/neosoft/Practice/Dagger/DaggerExample/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/webwerks/Documents/Backup/Backup/KP/neosoft/Practice/Dagger/DaggerExample/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/webwerks/Documents/Backup/Backup/KP/neosoft/Practice/Dagger/DaggerExample/app/src/main/AndroidManifest.xml:6:5-22:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/webwerks/.gradle/caches/transforms-2/files-2.1/dfaf1b7cf6f9cb4d102fbdd9fa344764/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/webwerks/.gradle/caches/transforms-2/files-2.1/dfaf1b7cf6f9cb4d102fbdd9fa344764/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/webwerks/.gradle/caches/transforms-2/files-2.1/5a0580cc05b47c1781e609b2189caf4f/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/webwerks/.gradle/caches/transforms-2/files-2.1/5a0580cc05b47c1781e609b2189caf4f/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/webwerks/.gradle/caches/transforms-2/files-2.1/a1d5780acec32b717add6c1194498520/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/webwerks/.gradle/caches/transforms-2/files-2.1/a1d5780acec32b717add6c1194498520/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/webwerks/.gradle/caches/transforms-2/files-2.1/5a0580cc05b47c1781e609b2189caf4f/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/webwerks/Documents/Backup/Backup/KP/neosoft/Practice/Dagger/DaggerExample/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /home/webwerks/Documents/Backup/Backup/KP/neosoft/Practice/Dagger/DaggerExample/app/src/main/AndroidManifest.xml:10:9-41
+	tools:ignore
+		ADDED from /home/webwerks/Documents/Backup/Backup/KP/neosoft/Practice/Dagger/DaggerExample/app/src/main/AndroidManifest.xml:14:9-48
+	android:roundIcon
+		ADDED from /home/webwerks/Documents/Backup/Backup/KP/neosoft/Practice/Dagger/DaggerExample/app/src/main/AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from /home/webwerks/Documents/Backup/Backup/KP/neosoft/Practice/Dagger/DaggerExample/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /home/webwerks/Documents/Backup/Backup/KP/neosoft/Practice/Dagger/DaggerExample/app/src/main/AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from /home/webwerks/Documents/Backup/Backup/KP/neosoft/Practice/Dagger/DaggerExample/app/src/main/AndroidManifest.xml:13:9-40
+	android:name
+		ADDED from /home/webwerks/Documents/Backup/Backup/KP/neosoft/Practice/Dagger/DaggerExample/app/src/main/AndroidManifest.xml:8:9-42
+activity#com.example.daggerexample.activity.MainActivity
+ADDED from /home/webwerks/Documents/Backup/Backup/KP/neosoft/Practice/Dagger/DaggerExample/app/src/main/AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from /home/webwerks/Documents/Backup/Backup/KP/neosoft/Practice/Dagger/DaggerExample/app/src/main/AndroidManifest.xml:15:19-56
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/webwerks/Documents/Backup/Backup/KP/neosoft/Practice/Dagger/DaggerExample/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /home/webwerks/Documents/Backup/Backup/KP/neosoft/Practice/Dagger/DaggerExample/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /home/webwerks/Documents/Backup/Backup/KP/neosoft/Practice/Dagger/DaggerExample/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/webwerks/Documents/Backup/Backup/KP/neosoft/Practice/Dagger/DaggerExample/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /home/webwerks/Documents/Backup/Backup/KP/neosoft/Practice/Dagger/DaggerExample/app/src/main/AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from /home/webwerks/Documents/Backup/Backup/KP/neosoft/Practice/Dagger/DaggerExample/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/webwerks/Documents/Backup/Backup/KP/neosoft/Practice/Dagger/DaggerExample/app/src/main/AndroidManifest.xml
+INJECTED from /home/webwerks/Documents/Backup/Backup/KP/neosoft/Practice/Dagger/DaggerExample/app/src/main/AndroidManifest.xml
+MERGED from [com.android.databinding:adapters:3.4.0] /home/webwerks/.gradle/caches/transforms-2/files-2.1/b6f49f3b1c3f47451d23232e756bc114/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:adapters:3.4.0] /home/webwerks/.gradle/caches/transforms-2/files-2.1/b6f49f3b1c3f47451d23232e756bc114/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.4.0] /home/webwerks/.gradle/caches/transforms-2/files-2.1/a5a767fdfb466a527b3b7809bb094104/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.4.0] /home/webwerks/.gradle/caches/transforms-2/files-2.1/a5a767fdfb466a527b3b7809bb094104/AndroidManifest.xml:22:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/webwerks/.gradle/caches/transforms-2/files-2.1/ed7f5cffbe5639adbd49a9f8d36fed21/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/webwerks/.gradle/caches/transforms-2/files-2.1/ed7f5cffbe5639adbd49a9f8d36fed21/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/webwerks/.gradle/caches/transforms-2/files-2.1/dfaf1b7cf6f9cb4d102fbdd9fa344764/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/webwerks/.gradle/caches/transforms-2/files-2.1/dfaf1b7cf6f9cb4d102fbdd9fa344764/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /home/webwerks/.gradle/caches/transforms-2/files-2.1/7a9baccb5214c79d2e8a9a9582bdc6a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/webwerks/.gradle/caches/transforms-2/files-2.1/7a9baccb5214c79d2e8a9a9582bdc6a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/webwerks/.gradle/caches/transforms-2/files-2.1/852f4e8ce9236f12d9faa21b3bbaf0de/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/webwerks/.gradle/caches/transforms-2/files-2.1/852f4e8ce9236f12d9faa21b3bbaf0de/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/webwerks/.gradle/caches/transforms-2/files-2.1/27b016111648a2ef30cfcfbd62ba0a0a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/webwerks/.gradle/caches/transforms-2/files-2.1/27b016111648a2ef30cfcfbd62ba0a0a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/webwerks/.gradle/caches/transforms-2/files-2.1/25646bf9bbfe8b76e01aec516fcbcfee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/webwerks/.gradle/caches/transforms-2/files-2.1/25646bf9bbfe8b76e01aec516fcbcfee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/webwerks/.gradle/caches/transforms-2/files-2.1/b9898ef82ec876d826d400541c867936/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/webwerks/.gradle/caches/transforms-2/files-2.1/b9898ef82ec876d826d400541c867936/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/webwerks/.gradle/caches/transforms-2/files-2.1/0ada0d10ff7b95ac9a05ea4281306c75/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/webwerks/.gradle/caches/transforms-2/files-2.1/0ada0d10ff7b95ac9a05ea4281306c75/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/webwerks/.gradle/caches/transforms-2/files-2.1/acd2edb7841d20aff666a6ee10a34cc5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/webwerks/.gradle/caches/transforms-2/files-2.1/acd2edb7841d20aff666a6ee10a34cc5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/webwerks/.gradle/caches/transforms-2/files-2.1/6a4e00cb8914777f7f71bc8548c6e72b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/webwerks/.gradle/caches/transforms-2/files-2.1/6a4e00cb8914777f7f71bc8548c6e72b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/webwerks/.gradle/caches/transforms-2/files-2.1/978be32f8d3be8050abaa687c2efaee0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/webwerks/.gradle/caches/transforms-2/files-2.1/978be32f8d3be8050abaa687c2efaee0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/webwerks/.gradle/caches/transforms-2/files-2.1/9ca4b56be0deca4f748dff5ae170e9fa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/webwerks/.gradle/caches/transforms-2/files-2.1/9ca4b56be0deca4f748dff5ae170e9fa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/webwerks/.gradle/caches/transforms-2/files-2.1/13505a070b4a74bd14cd7a132e6d2f68/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/webwerks/.gradle/caches/transforms-2/files-2.1/13505a070b4a74bd14cd7a132e6d2f68/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/webwerks/.gradle/caches/transforms-2/files-2.1/93a83385bed8d0ab84b2508290ee8e34/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/webwerks/.gradle/caches/transforms-2/files-2.1/93a83385bed8d0ab84b2508290ee8e34/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/webwerks/.gradle/caches/transforms-2/files-2.1/6706987a2b6ebb3b1430cd75c80c4f42/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/webwerks/.gradle/caches/transforms-2/files-2.1/6706987a2b6ebb3b1430cd75c80c4f42/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/webwerks/.gradle/caches/transforms-2/files-2.1/5a0580cc05b47c1781e609b2189caf4f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/webwerks/.gradle/caches/transforms-2/files-2.1/5a0580cc05b47c1781e609b2189caf4f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/webwerks/.gradle/caches/transforms-2/files-2.1/9f22b44b6e7710717825b05e542b72fc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/webwerks/.gradle/caches/transforms-2/files-2.1/9f22b44b6e7710717825b05e542b72fc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/webwerks/.gradle/caches/transforms-2/files-2.1/a1d5780acec32b717add6c1194498520/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/webwerks/.gradle/caches/transforms-2/files-2.1/a1d5780acec32b717add6c1194498520/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/webwerks/.gradle/caches/transforms-2/files-2.1/3c761bc38d5b1981037b725bc188e003/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/webwerks/.gradle/caches/transforms-2/files-2.1/3c761bc38d5b1981037b725bc188e003/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/webwerks/.gradle/caches/transforms-2/files-2.1/9284df74650b33a9c4bc1c2f6a31d54d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/webwerks/.gradle/caches/transforms-2/files-2.1/9284df74650b33a9c4bc1c2f6a31d54d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/webwerks/.gradle/caches/transforms-2/files-2.1/a6b5be48fbf56529d9f65b27422066e0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/webwerks/.gradle/caches/transforms-2/files-2.1/a6b5be48fbf56529d9f65b27422066e0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/webwerks/.gradle/caches/transforms-2/files-2.1/4dc6c289d3a4869cc92a4571aef1f5fd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/webwerks/.gradle/caches/transforms-2/files-2.1/4dc6c289d3a4869cc92a4571aef1f5fd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/webwerks/.gradle/caches/transforms-2/files-2.1/7c652bc15f932dd9d05aa7a60f1db009/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/webwerks/.gradle/caches/transforms-2/files-2.1/7c652bc15f932dd9d05aa7a60f1db009/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/webwerks/.gradle/caches/transforms-2/files-2.1/1bbd711f1790da016f3a531ac9e2e385/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/webwerks/.gradle/caches/transforms-2/files-2.1/1bbd711f1790da016f3a531ac9e2e385/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/webwerks/.gradle/caches/transforms-2/files-2.1/010d79cb9ca3588f77bb17cd0836746c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/webwerks/.gradle/caches/transforms-2/files-2.1/010d79cb9ca3588f77bb17cd0836746c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/webwerks/.gradle/caches/transforms-2/files-2.1/ba0755b33ee9906bcc8dbf62b5849c8c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/webwerks/.gradle/caches/transforms-2/files-2.1/ba0755b33ee9906bcc8dbf62b5849c8c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/webwerks/.gradle/caches/transforms-2/files-2.1/db61c118f028f255aa636b6bf809ede0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/webwerks/.gradle/caches/transforms-2/files-2.1/db61c118f028f255aa636b6bf809ede0/AndroidManifest.xml:20:5-44
+INJECTED from /home/webwerks/Documents/Backup/Backup/KP/neosoft/Practice/Dagger/DaggerExample/app/src/main/AndroidManifest.xml
+INJECTED from /home/webwerks/Documents/Backup/Backup/KP/neosoft/Practice/Dagger/DaggerExample/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/webwerks/Documents/Backup/Backup/KP/neosoft/Practice/Dagger/DaggerExample/app/src/main/AndroidManifest.xml
+		ADDED from /home/webwerks/Documents/Backup/Backup/KP/neosoft/Practice/Dagger/DaggerExample/app/src/main/AndroidManifest.xml
+		INJECTED from /home/webwerks/Documents/Backup/Backup/KP/neosoft/Practice/Dagger/DaggerExample/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/webwerks/Documents/Backup/Backup/KP/neosoft/Practice/Dagger/DaggerExample/app/src/main/AndroidManifest.xml
+		ADDED from /home/webwerks/Documents/Backup/Backup/KP/neosoft/Practice/Dagger/DaggerExample/app/src/main/AndroidManifest.xml
+		INJECTED from /home/webwerks/Documents/Backup/Backup/KP/neosoft/Practice/Dagger/DaggerExample/app/src/main/AndroidManifest.xml
