@@ -10,8 +10,8 @@ import com.example.daggerexample.component.ActivityComponent;
 import com.example.daggerexample.component.DaggerActivityComponent;
 import com.example.daggerexample.databinding.ActivityMainBinding;
 import com.example.daggerexample.module.ActivityModule;
-import com.example.daggerexample.viewModel.CredentialModel;
-import com.example.daggerexample.viewModel.LoginModel;
+import com.example.daggerexample.model.CredentialModel;
+import com.example.daggerexample.model.LoginModel;
 
 import javax.inject.Inject;
 

@@ -11,8 +11,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a7d54cb-9beb-45ac-91ee-db23b7b761c5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/apt/debug/com/example/daggerexample/activity/MainActivity_MembersInjector.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/apt/debug/com/example/daggerexample/activity/MainActivity_MembersInjector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/apt/debug/com/example/daggerexample/component/DaggerActivityComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/apt/debug/com/example/daggerexample/component/DaggerActivityComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/apt/debug/com/example/daggerexample/module/ActivityModule_CredentialViewModelFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/apt/debug/com/example/daggerexample/module/ActivityModule_CredentialViewModelFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/apt/debug/com/example/daggerexample/module/ActivityModule_LoginViewModelFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/apt/debug/com/example/daggerexample/module/ActivityModule_LoginViewModelFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/daggerexample/activity/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/daggerexample/activity/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/daggerexample/module/ActivityModule.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/daggerexample/module/ActivityModule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/daggerexample/viewModel/CredentialModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/daggerexample/model/CredentialModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/daggerexample/viewModel/LoginModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/daggerexample/model/LoginModel.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -91,8 +97,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/daggerexample/activity/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="239">
-              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+            <state relative-caret-position="392">
+              <caret line="45" column="79" lean-forward="true" selection-start-line="45" selection-start-column="79" selection-end-line="45" selection-end-column="79" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1231#1791#0" expanded="true" />
@@ -145,6 +151,7 @@
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/daggerexample/component/ActivityComponent.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/daggerexample/app/MyApplication.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/daggerexample/component/AppComponent.java" />
+        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/daggerexample/activity/MainActivity.java" />
       </list>
     </option>
@@ -207,14 +214,14 @@
               <item name="app" type="feadf853:AndroidModuleNode" />
               <item name="java" type="edd41e36:AndroidSourceTypeNode" />
               <item name="daggerexample" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="module" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DaggerExample" type="1abcf292:AndroidViewProjectNode" />
               <item name="app" type="feadf853:AndroidModuleNode" />
               <item name="java" type="edd41e36:AndroidSourceTypeNode" />
               <item name="daggerexample" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="viewModel" type="462c0819:PsiDirectoryNode" />
+              <item name="module" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DaggerExample" type="1abcf292:AndroidViewProjectNode" />
@@ -355,7 +362,7 @@
       <window_info anchor="bottom" id="Find" weight="0.32868218" />
       <window_info anchor="bottom" id="Terminal" weight="0.71937984" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Version Control" weight="0.32868218" />
       <window_info anchor="bottom" id="Debug" />
       <window_info anchor="bottom" id="Build" weight="0.32868218" />
       <window_info anchor="right" id="Device File Explorer" side_tool="true" />
@@ -398,7 +405,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/daggerexample/viewModel/CredentialModel.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/daggerexample/model/CredentialModel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
@@ -409,7 +416,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/daggerexample/viewModel/LoginModel.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/daggerexample/model/LoginModel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
@@ -494,10 +501,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/daggerexample/activity/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+        <state relative-caret-position="392">
+          <caret line="45" column="79" lean-forward="true" selection-start-line="45" selection-start-column="79" selection-end-line="45" selection-end-column="79" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1231#1791#0" expanded="true" />

@@ -1,8 +1,8 @@
 package com.example.daggerexample.module;
 
 import android.content.Context;
-import com.example.daggerexample.viewModel.CredentialModel;
-import com.example.daggerexample.viewModel.LoginModel;
+import com.example.daggerexample.model.CredentialModel;
+import com.example.daggerexample.model.LoginModel;
 import javax.inject.Singleton;
 import dagger.Module;
 import dagger.Provides;

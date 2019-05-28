@@ -1,4 +1,4 @@
-package com.example.daggerexample.viewModel;
+package com.example.daggerexample.model;
 
 
 public class CredentialModel {
